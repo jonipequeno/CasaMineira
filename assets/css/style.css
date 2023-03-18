@@ -224,6 +224,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 600;
   border: 2px solid rgba(255, 0, 0, 0.986);
+  background-color: red;
 }
 
 .navbar .getstarted:hover {
@@ -343,7 +344,7 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: rgb(19, 18, 18);
+  background-color: rgb(255, 255, 255);
   overflow-y: auto;
   transition: 0.3s;
 }
